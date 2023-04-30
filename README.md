@@ -1,6 +1,6 @@
 # Robotics-Project
 
-Purpose of this project is to make a mini robot to observe room.
+Purpose of this project is to make a Mini Robot to observe room.
 
 Project was done during the course of "Robotics" of RAU(Russian-Armenian University),  by students: 
 
