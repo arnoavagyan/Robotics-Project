@@ -41,3 +41,23 @@ What we have:
 6. Camera
 
 7. Other components.
+
+
+
+
+
+
+
+
+
+
+Final result in action:
+
+
+
+
+https://github.com/arnoavagyan/Robotics-Project/assets/74950052/f36b38f6-e8c6-47ff-94d5-acf78bfab7c8
+
+
+
+
